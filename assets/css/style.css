@@ -208,7 +208,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* CSS changed to h3 to fix the heading descending order*/
 .footer h3 {
     font-size: 20px;
 }
