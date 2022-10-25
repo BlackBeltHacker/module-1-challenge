@@ -1,9 +1,11 @@
+/* CSS RESET*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* fixing background colors*/
 body {
     background-color: #d9dcd6;
 }
@@ -19,7 +21,7 @@ body header {
 body footer {
     background-color: #d9dcd6;
 }
-
+/* CSS refactoring to the right selectors after changing to semantic html 5 */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
